@@ -1,4 +1,4 @@
-const loveMe = document.querySelector(".loveMe");
+const loveMe = document.querySelector(".love-me");
 const times = document.querySelector("#times");
 
 let clickTime = 0;
